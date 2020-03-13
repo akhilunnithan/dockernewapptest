@@ -1,2 +1,2 @@
-FROM docker-registry.default.svc:5000/ak/test-app
+FROM docker-registry-default.app.oscp-test.mercedes-benz.com/ak/nginx-ak
 RUN echo Hello 
